@@ -1,6 +1,7 @@
-### Trabalho 2 - Aprendizado por Reforço
+# <b>Trabalho 2 - Aprendizado por Reforço</b>
 
-Alunos (Todos da Turma A):
-1) Bernardo Cobalchini Zietolie - 550164
-2) Eduardo Machado Wüllner - 315909
-3) Ricardo Zanini de Costa - 344523
+### Alunos (Todos da Turma A):
+
+- Bernardo Cobalchini Zietolie    - <b> 550164 </b>
+- Eduardo Machado Wüllner         - <b> 315909 </b>
+- Ricardo Zanini de Costa         - <b> 344523 </b>
